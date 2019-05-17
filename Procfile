@@ -1,1 +1,1 @@
-web: gunicorn assets.app:app
+web: gunicorn assets/app:app
